@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+1. Todd Norman tnorman27597outlook.com or tanorman@my.waketech.edu
+2. This repository was stated as an lab assignment 
+3. This is my repository for my course at Wake Technical Community College
+4. I downloaded GitHub for Desktop, signed in using the username and password I created, clicked clone repository, chose the repository I created on the website, and added it to my local machine.
+
