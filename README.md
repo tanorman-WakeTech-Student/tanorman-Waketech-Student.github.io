@@ -1,3 +1,4 @@
+<<<<<<< Updated README with "About Me" section
 ## Hi there 👋
 
 <!--
@@ -19,3 +20,34 @@ Here are some ideas to get you started:
 3. This is my repository for my course at Wake Technical Community College
 4. I downloaded GitHub for Desktop, signed in using the username and password I created, clicked clone repository, chose the repository I created on the website, and added it to my local machine.
 
+# About Me
+## My Interest
+* I love to play Lego Fortnight. Sometimes I play Battle Royale Fortnight online with my grandson the lives in SC. I also have a passion for trying foods resturants that are new to me and trying my hand at cooking dishes that I have never cooked before. I guess I could be called a foodie.
+## Websites I Recommend
+* [The Official Website of Jehovah's Witnesses](www.jw.org)
+ * As a Jehovah's Witness, I encounter many people that have misconceptions about abot our beliefs because of incorrect information sources. In any aspect of life, if people have questions, it is always better to get questions answered from the source.
+* [Instagrm](www.intsagram.com)
+ * I not only find entertaining video here, but I also have discovered many tasty recipes. 
+=======
+## Hi there 👋
+
+<!--
+**tanorman-WakeTech-Student/tanorman-Waketech-Student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+1. Todd Norman tnorman27597outlook.com or tanorman@my.waketech.edu
+2. This repository was stated as an lab assignment 
+3. This is my repository for my course at Wake Technical Community College
+4. I downloaded GitHub for Desktop, signed in using the username and password I created, clicked clone repository, chose the repository I created on the website, and added it to my local machine.
+
+>>>>>>> Stashed changes
